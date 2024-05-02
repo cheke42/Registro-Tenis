@@ -2,7 +2,7 @@
 
 Este proyecto se desarrolló en el marco de la materia **Diseño de aplicaciones web** de la carrera **Licenciatura en Informática**.
 
-Desarrollado con [Codeiginter 3](https://codeigniter.com/userguide3/), (Bootstrap 4 (Beta 2))[https://getbootstrap.com/docs/4.6/getting-started/introduction/] y haciendo uso del método de diseño [OOHDM](https://darjelingsilva.files.wordpress.com/2018/05/5-metd-oohdm.pdf).
+Desarrollado con [Codeiginter 3](https://codeigniter.com/userguide3/), [Bootstrap 4](https://getbootstrap.com/docs/4.6/getting-started/introduction/) y haciendo uso del método de diseño [OOHDM](https://darjelingsilva.files.wordpress.com/2018/05/5-metd-oohdm.pdf).
 
 ![Alt text](/screenshot.png?raw=true "Captura")
 
