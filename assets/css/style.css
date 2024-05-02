@@ -1,0 +1,95 @@
+.margin-top{
+	margin-top: 1rem;
+}
+
+.margin-left{
+	margin-left: 1rem;
+}
+
+.margin-right{
+	margin-right: 1rem;
+}
+
+.margin-bottom{
+	margin-bottom: 1rem;
+}
+
+button{
+	cursor: pointer;
+	margin-top: 0.5rem;
+}
+
+
+body, html {
+    height: 100%;
+}
+
+.bg { 
+    /* The image used */
+    background-image: url("../img/background.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.box-busqueda{
+	background-color: #0275D8;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	border-radius: 1rem;
+}
+
+.titulo-buscador{
+	margin-bottom: 2rem;
+}
+
+.cancha-container:hover{
+	background-color: #cecece;
+}
+
+.cancha-container{
+	padding-bottom: 2rem;
+}
+
+
+.cancha-container a{
+	text-decoration: none;
+}
+
+
+.card-jugador{
+	border: .5px solid #ccc;
+	background-color: white;
+	padding-bottom: 1rem;
+	padding-left: .25rem;
+	padding-right: .25rem
+}
+
+.card-jugador:hover{
+	background-color: #ddd;
+}
+
+#resultados-jugador .my-card a,
+#resultados-partidos .my-card a
+{
+	text-decoration: none;
+	color: black;
+}
+
+
+#resultados-partidos .my-card{
+	background-color: #F3F3F3;
+	padding: .25rem;
+	margin-top: 1rem;
+}
+
+#resultados-partidos .my-card:hover{
+	background-color: #ccc;
+}
+

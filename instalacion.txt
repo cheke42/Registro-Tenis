@@ -1,0 +1,16 @@
+# Configuración de Base de Datos
+  * Ejecutar el script en mysql: 
+   |-> "daw2017.sql" 
+  * Verificar la configuración de mysql en:
+   |->application/config/database.php
+   
+# Configuración de la ruta
+  * Copiar el proyecto en la ruta de su servidor (ej: c:/wamp/www/micarpeta)
+  * Verificar la configuración de ruta en:
+   |->application/config/config.php
+
+   Configurar la variable
+   $config['base_url'] = 'http://localhost/<micarpeta>/'; 
+
+
+Muchas gracias! :)
