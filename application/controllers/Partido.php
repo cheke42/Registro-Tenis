@@ -3,7 +3,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 /* 
 	Alumno: Suazo Leonardo Ezequiel
 	Materia: Diseño de Aplicaciones Web
-	Año: 2017
+	Año: 2017 
  */
 class Partido extends CI_Controller {
 	
